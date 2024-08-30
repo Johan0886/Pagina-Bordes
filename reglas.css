@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(12, 180, 231);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+  border-bottom: 2px solid rgb(0, 0, 0);
+
+}
+#contenido{
+    border: white;
+
+}
+#caracter{
+    border: white;
+}
+
+#ab{
+    border: rgb(255, 255, 255) dotted;
+     color: rgb(28, 12, 245);
+}
+#bc{
+    border: rgb(255, 255, 255) dotted;
+    color: rgb(0, 17, 255);
+    
+}
+h2{
+    color: rgb(0, 0, 0);
+    border-bottom: rgb(0, 0, 0);
+    border-top: rgb(0, 0, 0);
+}
+
+#de{
+    border: rgb(255, 255, 255) dotted;
+    color: blue;
+
+
+}
